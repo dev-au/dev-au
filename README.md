@@ -10,7 +10,7 @@ Hi, I'm Abdulloh Umar! 👋
 - **Frontend**: React JS, HTML, CSS
 
 
-## 🚀 Hot Projects
+## 🚀 Great Projects
 
 - [**TezAPI**](https://github.com/dev-au/tezapi): Fully asynchronous web framework based on Aiohttp.
 - [**FoodMenu**](https://foodmenu.uz): A platform that creates virtual food menus for restaurants.
