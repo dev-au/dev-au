@@ -8,4 +8,3 @@ Hi, I'm Abdulloh Umar! 👋
 - **Frameworks**: FastAPI, Django & DRF, Aiohttp, Gevent, Sanic
 - **Tools**: Redis, Docker, Linux, Ubuntu, Nginx, WebSocket, Celery
 - **Frontend**: React JS, HTML, CSS
-- **Other Skills**: Solving problems, Algorithms, Data Structures, OOP, Software Engineering
