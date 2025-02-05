@@ -1,4 +1,4 @@
-# Python Backend Developer
+# Software Engineer
 
 Hi, I'm Abdulloh Umar! 👋
 
