@@ -4,8 +4,8 @@ Hi, I'm Abdulloh Umar! 👋
 
 ## 🛠️ Skills
 
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: FastAPI, Django & DRF
+- **Languages**: Python, Go, JavaScript, SQL
+- **Frameworks**: FastAPI, Django & DRF, Gin
 - **Tools**: Redis, Docker, Linux, Ubuntu, Nginx, WebSocket, Celery
 - **Frontend**: React JS, HTML, CSS
 
